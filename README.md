@@ -1,4 +1,4 @@
-# Drawing the moon movement in Egypt in Jan 2022 with coordnate system Altitude and Azimuth as a part of our project
+# Drawing the moon movement in Egypt in Jan 2022 with coordinate system Altitude and Azimuth as a part of our project
 # 1.0.1 We are using data from U.S. Naval Observatory
 # https://www.cnmoc.usff.navy.mil/usno/
 ## The code is -> Moonn.ipynb
