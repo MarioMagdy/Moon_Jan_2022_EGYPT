@@ -2,5 +2,5 @@
 # 1.0.1 We are using data from U.S. Naval Observatory
 # https://www.cnmoc.usff.navy.mil/usno/
 ## The code is -> Moonn.ipynb
-## Video -> Output.mp4
+## Video -> output_smaller.mp4
 ## the data -> observationsCopy.csv
